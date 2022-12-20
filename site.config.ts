@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '甜甜圈工厂',
-  domain: 'https://earthy-leech-5cf.notion.site/Teamspace-Home-15c56a8f45f9402f8fe5a7c3e7c65050',
+  domain: 'https://earthy-leech-5cf.notion.site/DonutFactory-15c56a8f45f9402f8fe5a7c3e7c65050',
   author: 'Dotnut',
 
   // open graph metadata (optional)
